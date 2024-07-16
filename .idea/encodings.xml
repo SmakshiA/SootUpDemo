@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.analysis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.analysis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.callgraph/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.callgraph/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.examples/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.examples/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.java.bytecode/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.java.bytecode/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.java.core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.java.core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.java.sourcecode/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.java.sourcecode/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.jimple.parser/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.jimple.parser/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.qilin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.qilin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.report/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.report/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.tests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/sootup.tests/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SootUp/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

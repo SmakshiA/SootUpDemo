@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sootup.java.core" />
+        <module name="sootup.examples" />
+        <module name="sootup.java.sourcecode" />
+        <module name="sootup.analysis" />
+        <module name="sootup.callgraph" />
+        <module name="sootup.core" />
+        <module name="sootup.tests" />
+        <module name="sootup.qilin" />
+        <module name="sootup.jimple.parser" />
+        <module name="sootup.report" />
+        <module name="sootup.java.bytecode" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sootup" target="1.8" />
+      <module name="sootup.analysis" target="1.8" />
+      <module name="sootup.callgraph" target="1.8" />
+      <module name="sootup.core" target="1.8" />
+      <module name="sootup.examples" target="1.8" />
+      <module name="sootup.java.bytecode" target="1.8" />
+      <module name="sootup.java.core" target="1.8" />
+      <module name="sootup.java.sourcecode" target="1.8" />
+      <module name="sootup.jimple.parser" target="1.8" />
+      <module name="sootup.qilin" target="1.8" />
+      <module name="sootup.report" target="1.8" />
+      <module name="sootup.tests" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="sootup.analysis" options="-Xpkginfo:always" />
+      <module name="sootup.callgraph" options="-Xpkginfo:always" />
+      <module name="sootup.core" options="-Xpkginfo:always" />
+      <module name="sootup.examples" options="-Xpkginfo:always" />
+      <module name="sootup.java.bytecode" options="-Xpkginfo:always" />
+      <module name="sootup.java.core" options="-Xpkginfo:always" />
+      <module name="sootup.java.sourcecode" options="-Xpkginfo:always" />
+      <module name="sootup.jimple.parser" options="-Xpkginfo:always" />
+      <module name="sootup.qilin" options="-Xpkginfo:always" />
+      <module name="sootup.report" options="-Xpkginfo:always" />
+      <module name="sootup.tests" options="-Xpkginfo:always" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sootup-Demo.iml" filepath="$PROJECT_DIR$/.idea/Sootup-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SootUp/sootup.iml" filepath="$PROJECT_DIR$/SootUp/sootup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SootUp/sootup.analysis/sootup.analysis.iml" filepath="$PROJECT_DIR$/SootUp/sootup.analysis/sootup.analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SootUp/sootup.callgraph/sootup.callgraph.iml" filepath="$PROJECT_DIR$/SootUp/sootup.callgraph/sootup.callgraph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SootUp/sootup.core/sootup.core.iml" filepath="$PROJECT_DIR$/SootUp/sootup.core/sootup.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SootUp/sootup.examples/sootup.examples.iml" filepath="$PROJECT_DIR$/SootUp/sootup.examples/sootup.examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SootUp/sootup.java.bytecode/sootup.java.bytecode.iml" filepath="$PROJECT_DIR$/SootUp/sootup.java.bytecode/sootup.java.bytecode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SootUp/sootup.java.core/sootup.java.core.iml" filepath="$PROJECT_DIR$/SootUp/sootup.java.core/sootup.java.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SootUp/sootup.java.sourcecode/sootup.java.sourcecode.iml" filepath="$PROJECT_DIR$/SootUp/sootup.java.sourcecode/sootup.java.sourcecode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SootUp/sootup.jimple.parser/sootup.jimple.parser.iml" filepath="$PROJECT_DIR$/SootUp/sootup.jimple.parser/sootup.jimple.parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SootUp/sootup.qilin/sootup.qilin.iml" filepath="$PROJECT_DIR$/SootUp/sootup.qilin/sootup.qilin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SootUp/sootup.report/sootup.report.iml" filepath="$PROJECT_DIR$/SootUp/sootup.report/sootup.report.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SootUp/sootup.tests/sootup.tests.iml" filepath="$PROJECT_DIR$/SootUp/sootup.tests/sootup.tests.iml" />
+    </modules>
+  </component>
+</project>
